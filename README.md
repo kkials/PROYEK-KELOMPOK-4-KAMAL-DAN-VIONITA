@@ -2,3 +2,4 @@
 MATA KULIAH COMPUTER PROGRAMMING 2 
 def 
 kj,hkh
+bagian awal 1
